@@ -9,6 +9,5 @@ ffmpeg & imagemagick installed (see below)<br/>
 ### Start project
 
 pipenv install --python 3.8 moviepy<br/>
-
 pipenv shell<br/>
 mkdir data/samples/outputs<br/>
