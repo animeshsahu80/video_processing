@@ -1,7 +1,7 @@
 ### Package Requirements
 
 Python 3.6+ <br/>
-Pipenv (or another virtual <br/>environment)<br/>
+Pipenv (or another virtual environment)<br/>
 moviepy==1.0.2 (or greater)<br/>
 ffmpeg & imagemagick installed (see below)<br/>
 
