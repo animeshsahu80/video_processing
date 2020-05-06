@@ -1,4 +1,3 @@
-# video_processing
 ### Package Requirements
 
 Python 3.6+ <br/>
